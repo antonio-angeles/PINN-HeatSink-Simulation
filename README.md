@@ -48,4 +48,4 @@ La ejecución del proyecto está dividida en tres notebooks que deben seguir est
 2. **`notebook2.ipynb`**: Contiene la definición de la clase `FourierPINN`, el cálculo de la pérdida física y el ciclo de entrenamiento, generando el archivo `heatsink_model_final.pth`.
 3. **`notebook3.ipynb`**: Utilizado para la carga de pesos entrenados, la creación de la malla de predicción y la generación de la animación final en formato GIF.
 
-Adicionalmente, se incluye en la carpeta `documentos/` el reporte técnico y la presentación final del proyecto para una consulta detallada del sustento físico y teórico.
+Adicionalmente, se incluye el reporte técnico y la presentación final del proyecto para una consulta detallada del sustento físico y teórico.
